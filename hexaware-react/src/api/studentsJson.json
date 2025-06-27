@@ -1,0 +1,98 @@
+[
+  {
+    "roll_no": 101,
+    "full_name": "Riya Sharma",
+    "course": "React",
+    "email": "riya.sharma@example.com",
+    "finalScore": 85,
+    "imageUrl": "/images/image_01.png"
+  },
+  {
+    "roll_no": 102,
+    "full_name": "Amit Verma",
+    "course": "Node.js",
+    "email": "amit.verma@example.com",
+    "finalScore": 72,
+    "imageUrl": "/images/image_02.png"
+  },
+  {
+    "roll_no": 103,
+    "full_name": "Neha Kapoor",
+    "course": "React",
+    "email": "neha.kapoor@example.com",
+    "finalScore": 95,
+    "imageUrl": "/images/image_01.png"
+  },
+  {
+    "roll_no": 104,
+    "full_name": "Kunal Singh",
+    "course": "Python",
+    "email": "kunal.singh@example.com",
+    "finalScore": 40,
+    "imageUrl": "/images/image_02.png"
+  },
+  {
+    "roll_no": 105,
+    "full_name": "Sneha Joshi",
+    "course": "Angular",
+    "email": "sneha.joshi@example.com",
+    "finalScore": 32,
+    "imageUrl": "/images/image_01.png"
+  },
+  {
+    "roll_no": 106,
+    "full_name": "Rohit Mehra",
+    "course": "React",
+    "email": "rohit.mehra@example.com",
+    "finalScore": 77,
+    "imageUrl": "/images/image_02.png"
+  },
+  {
+    "roll_no": 107,
+    "full_name": "Priya Desai",
+    "course": "Node.js",
+    "email": "priya.desai@example.com",
+    "finalScore": 88,
+    "imageUrl": "/images/image_01.png"
+  },
+  {
+    "roll_no": 108,
+    "full_name": "Vikram Iyer",
+    "course": "Python",
+    "email": "vikram.iyer@example.com",
+    "finalScore": 59,
+    "imageUrl": "/images/image_02.png"
+  },
+  {
+    "roll_no": 109,
+    "full_name": "Ankita Reddy",
+    "course": "React",
+    "email": "ankita.reddy@example.com",
+    "finalScore": 38,
+    "imageUrl": "/images/image_01.png"
+  },
+  {
+    "roll_no": 110,
+    "full_name": "Deepak Chawla",
+    "course": "Angular",
+    "email": "deepak.chawla@example.com",
+    "finalScore": 46,
+    "imageUrl": "/images/image_02.png"
+  },
+  {
+    "roll_no": 111,
+    "full_name": "Tanya Bhatia",
+    "course": "React",
+    "email": "tanya.bhatia@example.com",
+    "finalScore": 91,
+    "imageUrl": "/images/image_01.png"
+  },
+  {
+    "roll_no": 112,
+    "full_name": "Siddharth Roy",
+    "course": "Node.js",
+    "email": "siddharth.roy@example.com",
+    "finalScore": 28,
+    "imageUrl": "/images/image_02.png"
+  }
+]
