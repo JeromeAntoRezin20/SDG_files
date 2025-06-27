@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home Page</title>
+</head>
+<body>
+    <h1>Welcome to the Home Page 🎉</h1>
+
+    <!-- Button that redirects to About Page -->
+    <form action="/about">
+        <button type="submit">Go to About Page</button>
+    </form>
+
+    <br>
+   <h1>Course List</h1>
+   <ul>
+    {% for course in courses %}
+            <li>
+                <a href="/course/{{ course }}">{{ course }}</a>
+                <!-- OR as button -->
+                <!-- <form action="/course/{{ course }}" method="get" style="display:inline;">
+                    <button type="submit">{{ course }}</button>
+                </form> -->
+            </li>
+        {% endfor %}
+   </ul>
+</body>
+</html>
